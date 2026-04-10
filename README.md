@@ -1,4 +1,4 @@
-# Ola! Sou o Kauã Vieira 👋
+# Kauã Vieira 👋
 
 ### Desenvolvedor Backend | Python & Web
 
