@@ -38,7 +38,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Botucatu**, c
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauahv17&layout=compact&theme=tokyonight&locale=pt-br](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauahv17&layout=compact&theme=tokyonight&locale=pt-br&exclude_repo=lifegear&langs_count=4)"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauahv17&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
   />
 
