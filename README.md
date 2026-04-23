@@ -19,19 +19,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Botucatu**, c
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<table frame="void" rules="none" cellspacing="0" cellpadding="8">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauahv17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauahv17&layout=compact&theme=tokyonight&locale=pt-br&exclude_repo=lifegear&langs_count=4" />
-    </td>
-  </tr>
-</table>
   
 </p>
 
