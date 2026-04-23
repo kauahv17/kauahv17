@@ -14,7 +14,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Botucatu**, c
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<p align="left">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,9 +23,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Botucatu**, c
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-
-<br>
+</p>
 
 ---
 
